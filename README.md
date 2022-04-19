@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bradlaronde-kroger
+- 👋 Hi, I’m @bradl-kr
 - 👀 I’m interested in synthesizers and espresso machines
 - 🌱 I’m currently learning math
 - 💞️ I’m looking to collaborate on virtual / augmented / mixed reality tech
